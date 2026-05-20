@@ -1,0 +1,19 @@
+# Backend
+backend/*/bin/
+backend/*/obj/
+backend/*/publish/
+*.user
+.vs/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Environment
+.env
+.env.local
+appsettings.Production.json
+
+# OS
+.DS_Store
+Thumbs.db
